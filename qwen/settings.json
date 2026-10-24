@@ -1,0 +1,6 @@
+{
+  "ollama": {
+    "host": "http://localhost:8100",
+    "model": "qwen-3b"
+  }
+}

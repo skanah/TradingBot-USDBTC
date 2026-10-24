@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Runtime logs
+*.log
+
+# Generated runtime data
+production_signals.csv
+learning_log.csv
+performance_log.csv
+
+# Editor / IDE
+.vscode/
+.continue/
+.qodo/
+.idea/
+
+# OS junk
+nul
+Thumbs.db
+.DS_Store
+# Large accidental artifacts
+*.regtrans-ms
+*.blf
+
+# Corrupted metadata backups
+*.corrupt_*
+
+
+# Large accidental artifacts
+*.regtrans-ms
+*.blf

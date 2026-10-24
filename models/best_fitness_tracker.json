@@ -1,0 +1,36 @@
+{
+  "best_fitness": 143.74643379198108,
+  "best_version_id": "v1_20260629_004444",
+  "total_improvements": 1,
+  "last_update": "2026-06-29T00:44:44.394230",
+  "history": [
+    {
+      "version_id": "v27_20260609_234137",
+      "fitness": -5.182752752627231,
+      "profit": -4.869254786183092,
+      "improvement": Infinity,
+      "timestamp": "2026-06-09T23:41:37.643327"
+    },
+    {
+      "version_id": "v28_20260610_011633",
+      "fitness": -4.87359793611035,
+      "profit": -3.675095332308075,
+      "improvement": Infinity,
+      "timestamp": "2026-06-10T01:16:33.852655"
+    },
+    {
+      "version_id": "v29_20260610_014038",
+      "fitness": -4.74809708283423,
+      "profit": -5.904305714334072,
+      "improvement": Infinity,
+      "timestamp": "2026-06-10T01:40:38.816905"
+    },
+    {
+      "version_id": "v30_20260610_044438",
+      "fitness": 0.0,
+      "profit": 0.0,
+      "improvement": 1.0,
+      "timestamp": "2026-06-10T04:44:38.060785"
+    }
+  ]
+}

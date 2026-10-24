@@ -1,0 +1,13 @@
+{
+  "take_profit": 26.117392898555924,
+  "stop_loss": 5.231920500763438,
+  "max_hold": 748,
+  "cooldown": 227,
+  "momentum_short_period": 3,
+  "momentum_med_period": 7,
+  "momentum_short_threshold": 0.06764173415915818,
+  "momentum_med_threshold": 0.06602109423396656,
+  "fitness": 1065.310411061168,
+  "use_api_filter": true,
+  "min_signal_age": 21
+}
